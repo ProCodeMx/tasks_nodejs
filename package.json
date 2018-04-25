@@ -1,0 +1,15 @@
+{
+    "name": "todo-app",
+    "version": "1.0.0",
+    "description": "Todo app with NodeJS",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "VG",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.2.1",
+        "yargs": "^11.0.0"
+    }
+}
